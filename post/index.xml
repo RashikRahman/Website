@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://rashikrahman.github.io/Website/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://rashikrahman.github.io/Website/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 5: Bollywood Movie Recommendation Engine</title>
+      <link>https://rashikrahman.github.io/Website/post/project-5/</link>
+      <pubDate>Sun, 07 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-5/</guid>
+      <description>The data was scraped from wikipedia using beautifulsoup. Data was prepared using pandas and visualized using matplotlib. Analysis and data preparation was done thoroughly.  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: HR Analytics &amp; Modeling</title>
+      <link>https://rashikrahman.github.io/Website/post/project-4/</link>
+      <pubDate>Sat, 06 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-4/</guid>
+      <description>The data was collected from kaggle. Data was prepared using pandas and visualized using matplotlib &amp;amp; seaborn. Analysis was done thoroughly. Tried KNN, DecisionTree, LogisticRegression. And DecisionTree classifier algorithm was choosen with accuracy of 97%.  Link to Notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Salary Classifier</title>
+      <link>https://rashikrahman.github.io/Website/post/project-3/</link>
+      <pubDate>Mon, 01 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-3/</guid>
+      <description>The data was collected from kaggle. Data was prepared using pandas and visualized using matplotlib. Analysis was done thoroughly. Tried KNN, SVM, DecisionTree, LogisticRegression, RandomForest, AdaBoost, GaussianNB Algorithm. And AdaBoost classifier algorithm was choosen with accuracy of 81%.  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Car Price Prediction</title>
+      <link>https://rashikrahman.github.io/Website/post/project-2/</link>
+      <pubDate>Fri, 29 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-2/</guid>
+      <description>The data was collected from kaggle. Data was prepared using pandas and visualized using matplotlib. Prediction was done using LinearRegression, model accuracy 84%. Web frame used was django.  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Bangalore price prediction</title>
+      <link>https://rashikrahman.github.io/Website/post/project-1/</link>
+      <pubDate>Fri, 24 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-1/</guid>
+      <description>The data was collected from kaggle. Data was prepared using pandas and visualized using matplotlib. Prediction was done using LinearRegression, model accuracy 89%. Web frame used was flask. Locally hosted using Nginx.  Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
