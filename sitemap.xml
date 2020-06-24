@@ -3,14 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-5/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
+    <loc>https://rashikrahman.github.io/Website/post/project-7/</loc>
+    <lastmod>2020-06-24T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rashikrahman.github.io/Website/</loc>
+    <lastmod>2020-06-24T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rashikrahman.github.io/Website/post/project-6/</loc>
+    <lastmod>2020-06-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rashikrahman.github.io/Website/post/project-5/</loc>
     <lastmod>2020-06-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

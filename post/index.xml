@@ -12,6 +12,27 @@
     
     
     <item>
+      <title>Project 7: An Analysis of Data Science Job</title>
+      <link>https://rashikrahman.github.io/Website/post/project-7/</link>
+      <pubDate>Wed, 24 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-7/</guid>
+      <description>Code and Resources Used   Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium
+  Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
+  Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+  Web Scraping  Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following: Job title Salary Estimate Job Description Rating Company Location Company Headquarters Company Size Company Founded Date Type of Ownership Industry Sector Revenue Competitors  Data Cleaning   After scraping the data, I needed to clean it up so that it was usable for our model.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Face Matching Classifier</title>
+      <link>https://rashikrahman.github.io/Website/post/project-6/</link>
+      <pubDate>Tue, 23 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-6/</guid>
+      <description>The data was scraped from pinterest using FetKun. Data was prepared using opencv and visualized using matplotlib. Data preparation was done thoroughly. Did Hyper parameter tunning using GridSearchCV Among SVM, LogisticRegression, RandomForest, LogisticRegression performed best with score of 78%  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>Project 5: Bollywood Movie Recommendation Engine</title>
       <link>https://rashikrahman.github.io/Website/post/project-5/</link>
       <pubDate>Sun, 07 Jun 2020 10:58:08 -0400</pubDate>
