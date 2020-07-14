@@ -6,10 +6,19 @@
     <description>Recent content in Rashik Rahman on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://rashikrahman.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project 8: Sales Insights Using PowerBI</title>
+      <link>https://rashikrahman.github.io/Website/post/project-8/</link>
+      <pubDate>Tue, 07 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-8/</guid>
+      <description>Tools used : PowerBI, MySql Here the problem was a XYZ company was suffering from sales decline. So they wanted to see the insights of their sales and would take necessary decision based on that like closing a dealership etc. So my task was to design a dynamic intuitive dashboard from their database so that they can easily understand about their sales insights.  Link to GitHub Repository</description>
+    </item>
     
     <item>
       <title>Project 7: An Analysis of Data Science Job</title>
@@ -91,7 +100,8 @@ Data Scientist with Python
 Machine Learning Scientist with Python
 Data Analyst with Python
 Marketing Analytics with Python
-Time Series with Python</description>
+Time Series with Python
+MAchine Learning by Stanford University</description>
     </item>
     
   </channel>
