@@ -3,14 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-8/</loc>
-    <lastmod>2020-07-07T10:58:08-04:00</lastmod>
+    <loc>https://rashikrahman.github.io/Website/post/project-12/</loc>
+    <lastmod>2020-10-27T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://rashikrahman.github.io/Website/</loc>
+    <lastmod>2020-10-27T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rashikrahman.github.io/Website/post/project-11/</loc>
+    <lastmod>2020-10-24T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rashikrahman.github.io/Website/post/project-10/</loc>
+    <lastmod>2020-10-16T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rashikrahman.github.io/Website/post/project-9/</loc>
+    <lastmod>2020-10-10T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rashikrahman.github.io/Website/post/project-8/</loc>
     <lastmod>2020-07-07T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
