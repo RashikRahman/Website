@@ -6,10 +6,40 @@
     <description>Recent content in Rashik Rahman on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://rashikrahman.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project 15: Sentiment Classification with PyTorch &amp; FastApi</title>
+      <link>https://rashikrahman.github.io/Website/post/project-15/</link>
+      <pubDate>Wed, 10 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-15/</guid>
+      <description>This is a binary text classification project. I used pytorch to create the model with help of tez. Then used FastApi to deploy the model. The model.bin file couldn&amp;rsquo;t be uploaded due to it&amp;rsquo;s huge file, but you can run the project and create your own model.
+There are two ways to run this model. Either you can train the model on colab or train it locally. If you want to run it in colab then just copy past the whole code written in NLP_Model.</description>
+    </item>
+    
+    <item>
+      <title>Project 14: Image Video Colorization</title>
+      <link>https://rashikrahman.github.io/Website/post/project-14/</link>
+      <pubDate>Fri, 15 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-14/</guid>
+      <description>Hey there this is Rashik Rahman. This is a fun project to prectice openCV. The model files are open source and very available to use. I just took the pre-trained models and implemented those with openCV. To run this project you need to do the followings.
+You need to locate to the directory where you clone this repo. You can use command promt or anaconda powershell. To locate to repo you just need to type in this command.</description>
+    </item>
+    
+    <item>
+      <title>Project 13:Facial Recognition Attendance System</title>
+      <link>https://rashikrahman.github.io/Website/post/project-13/</link>
+      <pubDate>Tue, 05 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-13/</guid>
+      <description>This is an automation of face recognition attendance system. This project is with out gui so there&amp;rsquo;s a loop whole in taking the attendance that I intentionally didn&amp;rsquo;t resolve as I&amp;rsquo;ll develop a gui interface on it in near future. You may resolve that loop whole with a simple logic of &amp;lsquo;if preson name &amp;amp; current date exists in csv then don&amp;rsquo;t save else save&amp;rsquo;.
+How to run? At first you&amp;rsquo;ll need to install Visual Studio c++ compiler.</description>
+    </item>
     
     <item>
       <title>Project 12: Text Tagging</title>
