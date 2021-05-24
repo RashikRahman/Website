@@ -6,10 +6,29 @@
     <description>Recent content in Rashik Rahman on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://rashikrahman.github.io/Website/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project 17: Market Basket Analysis</title>
+      <link>https://rashikrahman.github.io/Website/post/project_17/</link>
+      <pubDate>Sat, 20 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project_17/</guid>
+      <description>What&amp;rsquo;s Market Basket Analysis(MBA) Market basket analysis is one of the key techniques used by retailers to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings, as well as products that are likely to be purchased together. It works by looking for combinations of items that occur together frequently in transactions. Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.</description>
+    </item>
+    
+    <item>
+      <title>Project 16: Plant Pathology Recognition with PyWebIO</title>
+      <link>https://rashikrahman.github.io/Website/post/project-16/</link>
+      <pubDate>Wed, 17 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-16/</guid>
+      <description>This is a plant disease recognition project. I used a CNN to build the deep learning model for recognition and used PyWebIO &amp;amp; flask for a web end interface. Model accuracy is over 91% in classification report. Due to bandwidth issue couldn&amp;rsquo;t upload the model.h5 file but hope to update it soon.
+You need to locate to the directory where you clone this repo. You can use command promt or anaconda powershell.</description>
+    </item>
     
     <item>
       <title>Project 15: Sentiment Classification with PyTorch &amp; FastApi</title>
@@ -17,7 +36,7 @@
       <pubDate>Wed, 10 Feb 2021 10:58:08 -0400</pubDate>
       
       <guid>https://rashikrahman.github.io/Website/post/project-15/</guid>
-      <description>This is a binary text classification project. I used pytorch to create the model with help of tez. Then used FastApi to deploy the model. The model.bin file couldn&amp;rsquo;t be uploaded due to it&amp;rsquo;s huge file, but you can run the project and create your own model.
+      <description>This is a binary text classification project. I used pytorch to create the model with help of tez wrapper. Then used FastApi to deploy the model. The model.bin file couldn&amp;rsquo;t be uploaded due to it&amp;rsquo;s huge file, but you can run the project and create your own model.
 There are two ways to run this model. Either you can train the model on colab or train it locally. If you want to run it in colab then just copy past the whole code written in NLP_Model.</description>
     </item>
     
