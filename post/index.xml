@@ -12,11 +12,22 @@
     
     
     <item>
+      <title>Project 18: Pneumonia classification from covid patient chest xray</title>
+      <link>https://rashikrahman.github.io/Website/post/project-18/</link>
+      <pubDate>Thu, 15 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/post/project-18/</guid>
+      <description>Developed a CNN model to recognize pneumonia from chest xray of covid patients. Also the model is implemented in web-end for ease of use. Dependencies to run the web-edn are the followings:
+Flask==1.1.2 joblib==1.0.1 Keras==2.4.3 numpy scipy==1.5.4 opencv-python==4.5.1.48 pywebio==1.2.3 scikit-image tensorflow==2.4.1 argparse How to use? Clone the repo(link attached below), then goto the server subdirectory. Open anaconda dir and type in the following commands.
+cd &amp;#39;path_to_repo/Server&amp;#39; pip install -r requirements.txt After installation of the dependencies now you need to run the following command.</description>
+    </item>
+    
+    <item>
       <title>Project 17: Market Basket Analysis</title>
-      <link>https://rashikrahman.github.io/Website/post/project_17/</link>
+      <link>https://rashikrahman.github.io/Website/post/project-17/</link>
       <pubDate>Sat, 20 Mar 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://rashikrahman.github.io/Website/post/project_17/</guid>
+      <guid>https://rashikrahman.github.io/Website/post/project-17/</guid>
       <description>What&amp;rsquo;s Market Basket Analysis(MBA) Market basket analysis is one of the key techniques used by retailers to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings, as well as products that are likely to be purchased together. It works by looking for combinations of items that occur together frequently in transactions. Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.</description>
     </item>
     
