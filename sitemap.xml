@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/blog/</loc>
+    <loc>https://example.org/categories/blog/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/markdown-formatting-demo/</loc>
+    <loc>https://example.org/blog/markdown-formatting-demo/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://example.org/blog/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/website/</loc>
+    <loc>https://example.org/tags/website/</loc>
     <lastmod>2020-09-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>https://example.org/portfolio/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/recipe-app-ux-study/</loc>
+    <loc>https://example.org/portfolio/recipe-app-ux-study/</loc>
     <lastmod>2020-08-12T18:19:35+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/ux-case-study-for-agriculture-app/</loc>
+    <loc>https://example.org/portfolio/ux-case-study-for-agriculture-app/</loc>
     <lastmod>2020-08-12T12:13:40+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/event-app-case-study/</loc>
+    <loc>https://example.org/portfolio/event-app-case-study/</loc>
     <lastmod>2020-08-12T18:07:16+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/designer-conference-at-florida-2020/</loc>
+    <loc>https://example.org/blog/designer-conference-at-florida-2020/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/documentation/</loc>
+    <loc>https://example.org/categories/documentation/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/mobile/</loc>
+    <loc>https://example.org/tags/mobile/</loc>
     <lastmod>2020-07-13T13:06:26+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
+    <loc>https://example.org/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/portfolio/case-study-one/</loc>
+    <loc>https://example.org/portfolio/case-study-one/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/designers-thoughts-about-mobile-ui/</loc>
+    <loc>https://example.org/blog/designers-thoughts-about-mobile-ui/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/fun/</loc>
+    <loc>https://example.org/tags/fun/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/how-to-become-acreative-designer/</loc>
+    <loc>https://example.org/blog/how-to-become-acreative-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/new-designers-limitations/</loc>
+    <loc>https://example.org/blog/new-designers-limitations/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/things-you-must-know-as-a-designer/</loc>
+    <loc>https://example.org/blog/things-you-must-know-as-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/world-most-famous-app-developers-and-designers/</loc>
+    <loc>https://example.org/blog/world-most-famous-app-developers-and-designers/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/you-must-know-this-before-becoming-a-designer/</loc>
+    <loc>https://example.org/blog/you-must-know-this-before-becoming-a-designer/</loc>
     <lastmod>2020-07-13T12:49:27+06:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://example.org/contact/</loc>
   </url>
 </urlset>
