@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Home</title>
-    <link>https://rashikrahman.github.io/Website/categories/</link>
-    <description>Recent content in Categories on Home</description>
+    <title>Categories on Portio</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Portio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://example.org/categories/blog/</link>
+      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://example.org/categories/blog/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://rashikrahman.github.io/Website/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>documentation</title>
+      <link>https://example.org/categories/documentation/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      
+      <guid>https://example.org/categories/documentation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
