@@ -1,36 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Portio</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on Portio</description>
+    <title>Tags on Somrat | Hugo Portfolio Template</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on Somrat | Hugo Portfolio Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>website</title>
-      <link>https://example.org/tags/website/</link>
-      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
+      <title>access</title>
+      <link>https://examplesite.com/tags/access/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://example.org/tags/website/</guid>
+      <guid>https://examplesite.com/tags/access/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>mobile</title>
-      <link>https://example.org/tags/mobile/</link>
-      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      <title>art</title>
+      <link>https://examplesite.com/tags/art/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://example.org/tags/mobile/</guid>
+      <guid>https://examplesite.com/tags/art/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>fun</title>
-      <link>https://example.org/tags/fun/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      <title>database</title>
+      <link>https://examplesite.com/tags/database/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://example.org/tags/fun/</guid>
+      <guid>https://examplesite.com/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://examplesite.com/tags/design/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://examplesite.com/tags/development/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sketch</title>
+      <link>https://examplesite.com/tags/sketch/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/sketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://examplesite.com/tags/web/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/tags/web/</guid>
       <description></description>
     </item>
     
