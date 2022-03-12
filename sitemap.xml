@@ -1,169 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-18/</loc>
-    <lastmod>2021-04-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/</loc>
-    <lastmod>2021-04-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-17/</loc>
-    <lastmod>2021-03-20T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-16/</loc>
-    <lastmod>2021-03-17T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-15/</loc>
-    <lastmod>2021-02-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-14/</loc>
-    <lastmod>2021-01-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-13/</loc>
-    <lastmod>2021-01-05T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-12/</loc>
-    <lastmod>2020-10-27T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-11/</loc>
-    <lastmod>2020-10-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-10/</loc>
-    <lastmod>2020-10-16T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-9/</loc>
-    <lastmod>2020-10-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-8/</loc>
-    <lastmod>2020-07-07T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-7/</loc>
-    <lastmod>2020-06-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-6/</loc>
-    <lastmod>2020-06-23T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-5/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-4/</loc>
-    <lastmod>2020-06-06T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-3/</loc>
-    <lastmod>2020-06-01T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-2/</loc>
-    <lastmod>2020-05-29T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-1/</loc>
-    <lastmod>2020-04-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <loc>https://rashikrahman.github.io/Website/categories/blog/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
     <loc>https://rashikrahman.github.io/Website/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/certification/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/markdown-formatting-demo/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
     <loc>https://rashikrahman.github.io/Website/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/tags/website/</loc>
+    <lastmod>2020-09-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/recipe-app-ux-study/</loc>
+    <lastmod>2020-08-12T18:19:35+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/ux-case-study-for-agriculture-app/</loc>
+    <lastmod>2020-08-12T12:13:40+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/event-app-case-study/</loc>
+    <lastmod>2020-08-12T18:07:16+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/designer-conference-at-florida-2020/</loc>
+    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/categories/documentation/</loc>
+    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/tags/mobile/</loc>
+    <lastmod>2020-07-13T13:06:26+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/benjamin-franklins-thoughts-about-new-designers/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/case-study-one/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/designers-thoughts-about-mobile-ui/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/tags/fun/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/how-to-become-acreative-designer/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/new-designers-limitations/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/things-you-must-know-as-a-designer/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/world-most-famous-app-developers-and-designers/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/you-must-know-this-before-becoming-a-designer/</loc>
+    <lastmod>2020-07-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/contact/</loc>
   </url>
-  
 </urlset>
