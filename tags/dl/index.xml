@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DL on Rashik Rahman</title>
+    <link>https://rashikrahman.github.io/Website/tags/dl/</link>
+    <description>Recent content in DL on Rashik Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rashikrahman.github.io/Website/tags/dl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pneumonia classification from covid patient chest xray</title>
+      <link>https://rashikrahman.github.io/Website/blog/p18pneumonia-classification-from-covid-patient-chest-xray/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p18pneumonia-classification-from-covid-patient-chest-xray/</guid>
+      <description>Link to github repo
+Dependencies Developed a CNN model to recognize pneumonia from chest xray of covid patients. Also the model is implemented in web-end for ease of use. Dependencies to run the web-edn are the followings:
+Flask==1.1.2 joblib==1.0.1 Keras==2.4.3 numpy scipy==1.5.4 opencv-python==4.5.1.48 pywebio==1.2.3 scikit-image tensorflow==2.4.1 argparse How to use? Clone the repo(link attached below), then goto the server subdirectory. Open anaconda dir and type in the following commands.
+cd &amp;#39;path_to_repo/Server&amp;#39;  pip install -r requirements.</description>
+    </item>
+    
+    <item>
+      <title>Plant Pathology Recognition with PyWebIO</title>
+      <link>https://rashikrahman.github.io/Website/blog/p16plant-pathology-recognition-with-pywebio/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p16plant-pathology-recognition-with-pywebio/</guid>
+      <description>Link to github repo
+This is a plant disease recognition project. I used a CNN to build the deep learning model for recognition and used PyWebIO &amp;amp; flask for a web end interface. Model accuracy is over 91% in classification report. Due to bandwidth issue couldn’t upload the model.h5 file but hope to update it soon.
+You need to locate to the directory where you clone this repo. You can use command promt or anaconda powershell.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Classification with PyTorch &amp; FastApi</title>
+      <link>https://rashikrahman.github.io/Website/blog/p15sentiment-classification-with-pytorch_fastapi/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p15sentiment-classification-with-pytorch_fastapi/</guid>
+      <description>Link to github repo
+This is a binary text classification project. I used pytorch to create the model with help of tez wrapper. Then used FastApi to deploy the model. The model.bin file couldn’t be uploaded due to it’s huge file, but you can run the project and create your own model.
+There are two ways to run this model. Either you can train the model on colab or train it locally.</description>
+    </item>
+    
+  </channel>
+</rss>

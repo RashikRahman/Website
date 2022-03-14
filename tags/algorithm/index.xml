@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithm on Rashik Rahman</title>
+    <link>https://rashikrahman.github.io/Website/tags/algorithm/</link>
+    <description>Recent content in Algorithm on Rashik Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rashikrahman.github.io/Website/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Market Basket Analysis</title>
+      <link>https://rashikrahman.github.io/Website/blog/p17market-basket-analysis/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p17market-basket-analysis/</guid>
+      <description>Link to github repo
+What’s Market Basket Analysis(MBA) Market basket analysis is one of the key techniques used by retailers to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings, as well as products that are likely to be purchased together. It works by looking for combinations of items that occur together frequently in transactions. Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.</description>
+    </item>
+    
+    <item>
+      <title>Image Video Colorization</title>
+      <link>https://rashikrahman.github.io/Website/blog/p14image-video-colorization/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p14image-video-colorization/</guid>
+      <description>Link to github repo
+Hey there this is Rashik Rahman. This is a fun project to prectice openCV. The model files are open source and very available to use. I just took the pre-trained models and implemented those with openCV. To run this project you need to do the followings.
+You need to locate to the directory where you clone this repo. You can use command promt or anaconda powershell. To locate to repo you just need to type in this command.</description>
+    </item>
+    
+    <item>
+      <title>Facial Recognition Attendance System</title>
+      <link>https://rashikrahman.github.io/Website/blog/p13facial-recognition-attendance-system/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p13facial-recognition-attendance-system/</guid>
+      <description>Link to github repo
+This is an automation of face recognition attendance system. This project is with out gui so there’s a loop whole in taking the attendance that I intentionally didn’t resolve as I’ll develop a gui interface on it in near future. You may resolve that loop whole with a simple logic of ‘if preson name &amp;amp; current date exists in csv then don’t save else save’.
+How to run?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analytics on Rashik Rahman</title>
+    <link>https://rashikrahman.github.io/Website/tags/analytics/</link>
+    <description>Recent content in Analytics on Rashik Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rashikrahman.github.io/Website/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sales Insights Using PowerBI</title>
+      <link>https://rashikrahman.github.io/Website/blog/p8sales-insights-using-powerbi/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p8sales-insights-using-powerbi/</guid>
+      <description> Tools used : PowerBI, MySql Here the problem was a XYZ company was suffering from sales decline. So they wanted to see the insights of their sales and would take necessary decision based on that like closing a dealership etc. So my task was to design a dynamic intuitive dashboard from their database so that they can easily understand about their sales insights.  Link to github repo
+         </description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Data Science Job</title>
+      <link>https://rashikrahman.github.io/Website/blog/p7an-analysis-of-data-science-job/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p7an-analysis-of-data-science-job/</guid>
+      <description>Link to github repo
+Code and Resources Used   Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium
+  Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
+  Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+  Web Scraping  Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following: Job title Salary Estimate Job Description Rating Company Location Company Headquarters Company Size Company Founded Date Type of Ownership Industry Sector Revenue Competitors  Data Cleaning   After scraping the data, I needed to clean it up so that it was usable for our model.</description>
+    </item>
+    
+  </channel>
+</rss>

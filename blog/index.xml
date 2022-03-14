@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recents Projects on Rashik Rahman</title>
+    <link>https://rashikrahman.github.io/Website/blog/</link>
+    <description>Recent content in Recents Projects on Rashik Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rashikrahman.github.io/Website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sales Insights Using PowerBI</title>
+      <link>https://rashikrahman.github.io/Website/blog/p8sales-insights-using-powerbi/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p8sales-insights-using-powerbi/</guid>
+      <description> Tools used : PowerBI, MySql Here the problem was a XYZ company was suffering from sales decline. So they wanted to see the insights of their sales and would take necessary decision based on that like closing a dealership etc. So my task was to design a dynamic intuitive dashboard from their database so that they can easily understand about their sales insights.  Link to github repo
+         </description>
+    </item>
+    
+    <item>
+      <title>Pneumonia classification from covid patient chest xray</title>
+      <link>https://rashikrahman.github.io/Website/blog/p18pneumonia-classification-from-covid-patient-chest-xray/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p18pneumonia-classification-from-covid-patient-chest-xray/</guid>
+      <description>Link to github repo
+Dependencies Developed a CNN model to recognize pneumonia from chest xray of covid patients. Also the model is implemented in web-end for ease of use. Dependencies to run the web-edn are the followings:
+Flask==1.1.2 joblib==1.0.1 Keras==2.4.3 numpy scipy==1.5.4 opencv-python==4.5.1.48 pywebio==1.2.3 scikit-image tensorflow==2.4.1 argparse How to use? Clone the repo(link attached below), then goto the server subdirectory. Open anaconda dir and type in the following commands.
+cd &amp;#39;path_to_repo/Server&amp;#39;  pip install -r requirements.</description>
+    </item>
+    
+    <item>
+      <title>Market Basket Analysis</title>
+      <link>https://rashikrahman.github.io/Website/blog/p17market-basket-analysis/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p17market-basket-analysis/</guid>
+      <description>Link to github repo
+What’s Market Basket Analysis(MBA) Market basket analysis is one of the key techniques used by retailers to increase sales by better understanding customer purchasing patterns. It involves analyzing large data sets, such as purchase history, to reveal product groupings, as well as products that are likely to be purchased together. It works by looking for combinations of items that occur together frequently in transactions. Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness, based on the concept of strong rules.</description>
+    </item>
+    
+    <item>
+      <title>Plant Pathology Recognition with PyWebIO</title>
+      <link>https://rashikrahman.github.io/Website/blog/p16plant-pathology-recognition-with-pywebio/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p16plant-pathology-recognition-with-pywebio/</guid>
+      <description>Link to github repo
+This is a plant disease recognition project. I used a CNN to build the deep learning model for recognition and used PyWebIO &amp;amp; flask for a web end interface. Model accuracy is over 91% in classification report. Due to bandwidth issue couldn’t upload the model.h5 file but hope to update it soon.
+You need to locate to the directory where you clone this repo. You can use command promt or anaconda powershell.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Classification with PyTorch &amp; FastApi</title>
+      <link>https://rashikrahman.github.io/Website/blog/p15sentiment-classification-with-pytorch_fastapi/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p15sentiment-classification-with-pytorch_fastapi/</guid>
+      <description>Link to github repo
+This is a binary text classification project. I used pytorch to create the model with help of tez wrapper. Then used FastApi to deploy the model. The model.bin file couldn’t be uploaded due to it’s huge file, but you can run the project and create your own model.
+There are two ways to run this model. Either you can train the model on colab or train it locally.</description>
+    </item>
+    
+    <item>
+      <title>Image Video Colorization</title>
+      <link>https://rashikrahman.github.io/Website/blog/p14image-video-colorization/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p14image-video-colorization/</guid>
+      <description>Link to github repo
+Hey there this is Rashik Rahman. This is a fun project to prectice openCV. The model files are open source and very available to use. I just took the pre-trained models and implemented those with openCV. To run this project you need to do the followings.
+You need to locate to the directory where you clone this repo. You can use command promt or anaconda powershell. To locate to repo you just need to type in this command.</description>
+    </item>
+    
+    <item>
+      <title>Facial Recognition Attendance System</title>
+      <link>https://rashikrahman.github.io/Website/blog/p13facial-recognition-attendance-system/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p13facial-recognition-attendance-system/</guid>
+      <description>Link to github repo
+This is an automation of face recognition attendance system. This project is with out gui so there’s a loop whole in taking the attendance that I intentionally didn’t resolve as I’ll develop a gui interface on it in near future. You may resolve that loop whole with a simple logic of ‘if preson name &amp;amp; current date exists in csv then don’t save else save’.
+How to run?</description>
+    </item>
+    
+    <item>
+      <title>Text Tagging</title>
+      <link>https://rashikrahman.github.io/Website/blog/p12text-tagging/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p12text-tagging/</guid>
+      <description>Link to github repo
+To develop this project I used fetch_20newsgroups which is sklearn’s open source dataset. Following are the labels in the dataset.
+    Data preparation was done thoroughly using TfidfVectorizer. Used MultiNomial Gaussian Naive Bayes algorithm to develop this project. Model accuracy is 77% The developed model will show the type of given input text.</description>
+    </item>
+    
+    <item>
+      <title>Spam Classifier</title>
+      <link>https://rashikrahman.github.io/Website/blog/p11spam-classifier/</link>
+      <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p11spam-classifier/</guid>
+      <description>Link to github repo
+Open source dataset containing 5773 text messages of spam and ham was used to develop this project.
+    Data preparation was done thoroughly using CountVectorizer. Used MultiNomial Gaussian Naive Bayes algorithm to develop this project. Model accuracy is 98%</description>
+    </item>
+    
+    <item>
+      <title>Maleware Detection</title>
+      <link>https://rashikrahman.github.io/Website/blog/p10maleware-detection/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p10maleware-detection/</guid>
+      <description>Link to github repo
+These are the column of the dataset representing various aspects of a software. These will decide if a software is legit or malware
+   Correlation between the attributes
+    Data preparation was not that much needed cause it was already a well proccesed data. Did Hyper parameter tunning using GridSearchCV Among GaussianNB, AdaBoostClassifier, DecisionTreeClassifier, KNeighborsClassifier, SVM, RandomForest LogisticRegression, RandomForest performed best with score of 99.</description>
+    </item>
+    
+    <item>
+      <title>Heart Attack Detection</title>
+      <link>https://rashikrahman.github.io/Website/blog/p9heart-attack-detection/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p9heart-attack-detection/</guid>
+      <description>About Dataset:   Age : Age of the patient
+  Sex : Sex of the patient
+  exang: exercise induced angina (1 = yes; 0 = no)
+  ca: number of major vessels (0-3)
+  cp : Chest Pain type chest pain typ
+ Value 1: typical angina Value 2: atypical angina Value 3: non-anginal pain Value 4: asymptomatic    trestbps : resting blood pressure (in mm Hg)</description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Data Science Job</title>
+      <link>https://rashikrahman.github.io/Website/blog/p7an-analysis-of-data-science-job/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p7an-analysis-of-data-science-job/</guid>
+      <description>Link to github repo
+Code and Resources Used   Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium
+  Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
+  Scraper Article: https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+  Web Scraping  Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following: Job title Salary Estimate Job Description Rating Company Location Company Headquarters Company Size Company Founded Date Type of Ownership Industry Sector Revenue Competitors  Data Cleaning   After scraping the data, I needed to clean it up so that it was usable for our model.</description>
+    </item>
+    
+    <item>
+      <title>Face Matching Classifier</title>
+      <link>https://rashikrahman.github.io/Website/blog/p6face-matching-classifier/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p6face-matching-classifier/</guid>
+      <description>The data was scraped from pinterest using FetKun. Data was prepared using opencv and visualized using matplotlib. Data preparation was done thoroughly. Did Hyper parameter tunning using GridSearchCV Among SVM, LogisticRegression, RandomForest, LogisticRegression performed best with score of 78%  Link to github repo</description>
+    </item>
+    
+    <item>
+      <title>Bollywood Movie Recommendation Engine</title>
+      <link>https://rashikrahman.github.io/Website/blog/p5bollywood-movie-recommendation-engine/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p5bollywood-movie-recommendation-engine/</guid>
+      <description>This project is about building a recommendation engine that will recommend bollywood movies from 2000-2020 based on user preferance &amp;amp; rating.
+ The data was scraped from wikipedia using beautifulsoup. Data was prepared using pandas and visualized using matplotlib. Analysis and data preparation was done thoroughly.  Link to github repo</description>
+    </item>
+    
+    <item>
+      <title>Salary Classifier</title>
+      <link>https://rashikrahman.github.io/Website/blog/p3salary-classifier/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p3salary-classifier/</guid>
+      <description>The data was collected from kaggle. Data was prepared using pandas and visualized using matplotlib. Analysis was done thoroughly. Tried KNN, SVM, DecisionTree, LogisticRegression, RandomForest, AdaBoost, GaussianNB Algorithm and AdaBoost classifier algorithm was choosen with accuracy of 81%.  Link to github repo</description>
+    </item>
+    
+    <item>
+      <title>Car Price Prediction</title>
+      <link>https://rashikrahman.github.io/Website/blog/p2car-price-prediction/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p2car-price-prediction/</guid>
+      <description>The data was collected from kaggle. Data was prepared using pandas and visualized using matplotlib. Prediction was done using LinearRegression, model accuracy 84%. Web frame used was django.  Link to github repo</description>
+    </item>
+    
+    <item>
+      <title>Bangalore Price Prediction</title>
+      <link>https://rashikrahman.github.io/Website/blog/p1bangalore-price-prediction/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p1bangalore-price-prediction/</guid>
+      <description>The data was collected from kaggle. Data was prepared using pandas and visualized using matplotlib. Prediction was done using LinearRegression, model accuracy 89%. Web frame used was flask. Locally hosted using Nginx.  Link to github repo</description>
+    </item>
+    
+  </channel>
+</rss>

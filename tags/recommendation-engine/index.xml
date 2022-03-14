@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recommendation Engine on Rashik Rahman</title>
+    <link>https://rashikrahman.github.io/Website/tags/recommendation-engine/</link>
+    <description>Recent content in Recommendation Engine on Rashik Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rashikrahman.github.io/Website/tags/recommendation-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bollywood Movie Recommendation Engine</title>
+      <link>https://rashikrahman.github.io/Website/blog/p5bollywood-movie-recommendation-engine/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/blog/p5bollywood-movie-recommendation-engine/</guid>
+      <description>This project is about building a recommendation engine that will recommend bollywood movies from 2000-2020 based on user preferance &amp;amp; rating.
+ The data was scraped from wikipedia using beautifulsoup. Data was prepared using pandas and visualized using matplotlib. Analysis and data preparation was done thoroughly.  Link to github repo</description>
+    </item>
+    
+  </channel>
+</rss>

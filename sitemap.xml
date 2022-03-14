@@ -1,169 +1,111 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-18/</loc>
-    <lastmod>2021-04-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <loc>https://rashikrahman.github.io/Website/tags/analytics/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rashikrahman.github.io/Website/</loc>
-    <lastmod>2021-04-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-17/</loc>
-    <lastmod>2021-03-20T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-16/</loc>
-    <lastmod>2021-03-17T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-15/</loc>
-    <lastmod>2021-02-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-14/</loc>
-    <lastmod>2021-01-15T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-13/</loc>
-    <lastmod>2021-01-05T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-12/</loc>
-    <lastmod>2020-10-27T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-11/</loc>
-    <lastmod>2020-10-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-10/</loc>
-    <lastmod>2020-10-16T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-9/</loc>
-    <lastmod>2020-10-10T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-8/</loc>
-    <lastmod>2020-07-07T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-7/</loc>
-    <lastmod>2020-06-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-6/</loc>
-    <lastmod>2020-06-23T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-5/</loc>
-    <lastmod>2020-06-07T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-4/</loc>
-    <lastmod>2020-06-06T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-3/</loc>
-    <lastmod>2020-06-01T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-2/</loc>
-    <lastmod>2020-05-29T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/project-1/</loc>
-    <lastmod>2020-04-24T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rashikrahman.github.io/Website/certification/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p8sales-insights-using-powerbi/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rashikrahman.github.io/Website/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/crt4/</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/</loc>
+    <lastmod>2022-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/crt3/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/crt2/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/crt1/</loc>
+    <lastmod>2022-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/uiu_robotics/</loc>
+    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/uap_cdc/</loc>
+    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/tags/dl/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p18pneumonia-classification-from-covid-patient-chest-xray/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/duet_crc/</loc>
+    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/tags/algorithm/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p17market-basket-analysis/</loc>
+    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/portfolio/diu_gcpc/</loc>
+    <lastmod>2021-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p16plant-pathology-recognition-with-pywebio/</loc>
+    <lastmod>2021-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p15sentiment-classification-with-pytorch_fastapi/</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p14image-video-colorization/</loc>
+    <lastmod>2021-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p13facial-recognition-attendance-system/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/tags/ml/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p12text-tagging/</loc>
+    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p11spam-classifier/</loc>
+    <lastmod>2020-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p10maleware-detection/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p9heart-attack-detection/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p7an-analysis-of-data-science-job/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p6face-matching-classifier/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p5bollywood-movie-recommendation-engine/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/tags/recommendation-engine/</loc>
+    <lastmod>2020-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p3salary-classifier/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p2car-price-prediction/</loc>
+    <lastmod>2020-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/blog/p1bangalore-price-prediction/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/categories/</loc>
+  </url><url>
+    <loc>https://rashikrahman.github.io/Website/contact/</loc>
   </url>
-  
 </urlset>

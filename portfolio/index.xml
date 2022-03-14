@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Rashik Rahman</title>
+    <link>https://rashikrahman.github.io/Website/portfolio/</link>
+    <description>Recent content in Portfolios on Rashik Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rashikrahman.github.io/Website/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/crt4/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/crt4/</guid>
+      <description>Certification </description>
+    </item>
+    
+    <item>
+      <title>Applied Data Science with Python</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/crt3/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/crt3/</guid>
+      <description>Certification </description>
+    </item>
+    
+    <item>
+      <title>DeepLearning.AI TensorFlow Developer</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/crt2/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/crt2/</guid>
+      <description>Certification </description>
+    </item>
+    
+    <item>
+      <title>IBM DATA SCIENCE Professional Certification</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/crt1/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/crt1/</guid>
+      <description>Certification </description>
+    </item>
+    
+    <item>
+      <title>Real-Life Data processing for Industrial projects with Machine Learning</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/uiu_robotics/</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/uiu_robotics/</guid>
+      <description>The session covered as follows:
+• Basic knowledge about ML &amp;amp; Data processing for the beginners.
+• Get basic direction to learning ML and Data Science &amp;amp; Analysis what is the prerequisite for it.
+• How to collect data, analyze data and optimize data in industrial aspects.
+• To learn the practical issues and want to make an industrial ML &amp;amp; Data Science project
+• AI and ML applications on robots for greater potential.</description>
+    </item>
+    
+    <item>
+      <title>Industrial Project On Machine Learning</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/uap_cdc/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/uap_cdc/</guid>
+      <description>Webniar conducted by:
+Rashik Rahman, Data Scientist, SammTech.
+MD. Harun-Ur-Rashid, Software Engineer, GIGA TECH Ltd.</description>
+    </item>
+    
+    <item>
+      <title>Workshop on a beginner&#39;s guide to start ML project, cracking machine learning production pipeline</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/duet_crc/</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/duet_crc/</guid>
+      <description>Bootcamp conducted by:
+Rashik Rahman, Data Scientist, SammTech.
+MD. Harun-Ur-Rashid, Software Engineer, GIGA TECH Ltd.</description>
+    </item>
+    
+    <item>
+      <title>Webinar on A to Z Tricks for Data Science and Machine Learning</title>
+      <link>https://rashikrahman.github.io/Website/portfolio/diu_gcpc/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rashikrahman.github.io/Website/portfolio/diu_gcpc/</guid>
+      <description>Webniar conducted by:
+Rashik Rahman, Data Scientist, SammTech.
+MD. Harun-Ur-Rashid, Software Engineer, GIGA TECH Ltd.</description>
+    </item>
+    
+  </channel>
+</rss>
